@@ -1,7 +1,2 @@
-Console.log("Welcome to the git course");
-
-
-for(var i=0; i<5; i++)
-{
-    console.log("code");
-}
+print ("hello world");
+Console.log("this is a new branch");
